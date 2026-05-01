@@ -1,45 +1,61 @@
 # Carlos Alberto Ortiz Jaramillo
 
-## IT Support | Infrastructure | SLA I/II | AWS Cloud | Cybersecurity
+## IT Support Specialist | Infrastructure | SLA I/II | AWS Cloud | Cybersecurity
 
-Technologist in Electronics and Computer Networks with 6+ years of experience supporting critical IT environments in banking and public sector organizations.
+Technologist in Electronics and Computer Networks with **6+ years of experience** supporting critical IT environments across **banking and public sector organizations**.
 
-### Core Experience
+---
 
-* Incident management (SLA Level I & II)
-* Remote and on-site technical support
-* Systems troubleshooting
-* Network support (LAN/WAN)
-* Virtualization support
-* Technical documentation
-* Operational continuity support
+## Professional Experience
 
-### Current Focus
+✔ Incident management (SLA Level I & II)
+✔ Remote and on-site technical support
+✔ Systems troubleshooting
+✔ Network support (LAN/WAN)
+✔ Virtualization support
+✔ Technical documentation
+✔ Operational continuity support
 
-* AWS Cloud
-* Cybersecurity
-* Infrastructure automation
+---
 
-### Professional Background
+## Current Technical Focus
 
-Experience supporting high-demand technology environments, ensuring service continuity, technical incident resolution and operational efficiency.
+🔹 AWS Cloud
+🔹 Cybersecurity Fundamentals
+🔹 Infrastructure Automation
+🔹 Cloud Operations
 
-### Connect
+---
 
-LinkedIn: https://www.linkedin.com/in/carlos-ortizj
+## Professional Objective
 
+Focused on transitioning toward roles in:
 
-<!--
-**Caliche008/Caliche008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Cloud Support
+* Infrastructure Analyst
+* IT Operations
+* Cybersecurity Support
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+🚧 AWS Infrastructure Lab *(in progress)*
+Hands-on cloud deployment and service configuration.
+
+🚧 Cybersecurity Lab *(in progress)*
+Security analysis, vulnerability assessment and defensive practices.
+
+---
+
+## Connect With Me
+
+**LinkedIn**
+https://www.linkedin.com/in/carlos-ortizj
+
+**Location**
+Colombia
+
+---
+
+*"Building practical cloud and cybersecurity skills on top of real-world IT support experience."*
